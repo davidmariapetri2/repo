@@ -3,17 +3,17 @@
   "utenti": [
     {
       "nome": "andrea",
-      "cognome": "farulli"
+      "cognome": "farulli",
       "indirizzo": "via dei trenini 52, livorno"
     },
     {
       "nome": "david",
-      "cognome": "petri"
+      "cognome": "petri",
       "indirizzo": "via dei ganzoni 11, viareggio"
     },
 {
       "nome": "pippo",
-      "cognome": "pipponi"
+      "cognome": "pipponi",
       "indirizzo": "via dei pipponi 134, pippoland"
     },
 
